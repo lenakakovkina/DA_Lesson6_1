@@ -1,0 +1,1 @@
+There are currently 100 items in stock. Cars arrive at the warehouse and are loaded. The user enters the quantity of goods loaded from the warehouse into the vehicle. When the product runs out, the program stops working and reports that there is no more product for today
